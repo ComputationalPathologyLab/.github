@@ -6,7 +6,7 @@ The **Computational Pathology Lab** develops open-source methods, software, and 
 
 Our current public-facing research focus includes **vascular spatial analysis, digital pathology, imaging mass cytometry (IMC), tumor microenvironment analysis, and translational cancer research**.
 
-🌐 **Website:** https://computationalpathologylab.github.io/  
+<!-- 🌐 **Website:** https://computationalpathologylab.github.io/ -->  
 🐙 **GitHub:** https://github.com/ComputationalPathologyLab  
 📍 **Italy — IRCCS Humanitas Research Hospital, Pathology Service**  
 
@@ -87,7 +87,7 @@ Where human or patient-derived data are involved, raw data should remain under t
 
 The lab also maintains [**resources**](https://github.com/ComputationalPathologyLab/resources) covering foundational skills in **Python, GitHub, Linux shell, and high-performance computing**.
 
-For the broader research context and software catalogue, visit the [**lab website**](https://computationalpathologylab.github.io/).
+<!--For the broader research context and software catalogue, visit the [**lab website**](https://computationalpathologylab.github.io/). -->
 
 ---
 
@@ -103,7 +103,7 @@ We are interested in collaborations around:
 - reproducible biomedical workflows
 - open-source research software
 
-For research collaborations, software questions, or technical discussions, contact the lab at **computationalpathologylab@humanitas.it**.
+For research collaborations, software questions, or technical discussions, contact the PI at **salvatore.renne(/at/)hunimed.eu**.
 
 ---
 
@@ -112,7 +112,7 @@ For research collaborations, software questions, or technical discussions, conta
 The Computational Pathology Lab is based within the **Pathology Service at IRCCS Humanitas Research Hospital** in the Milan area, Italy.
 
 The lab’s public research identity emphasizes **reproducible computational pathology for vascular biology, tumor microenvironment analysis, imaging mass cytometry, and translational cancer research**.
-
+<!--
 ---
 
 ## 🔗 Links
@@ -125,7 +125,7 @@ The lab’s public research identity emphasizes **reproducible computational pat
 - 📄 [Publications](https://computationalpathologylab.github.io/publications.html)
 - 📚 [Resources](https://computationalpathologylab.github.io/resources.html)
 - ✉️ [Contact](https://computationalpathologylab.github.io/contact.html)
-
+-->
 ---
 
 ## 📜 Repository & software licensing
