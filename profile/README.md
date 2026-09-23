@@ -6,7 +6,7 @@ The **Computational Pathology Lab** develops open-source methods, software, and 
 
 Our current public-facing research focus includes **vascular spatial analysis, digital pathology, imaging mass cytometry (IMC), tumor microenvironment analysis, and translational cancer research**.
 
-🌐 **Website:** https://computationalpathologylab.github.io/  
+<!--- 🌐 **Website:** https://computationalpathologylab.github.io/  --->
 🐙 **GitHub:** https://github.com/ComputationalPathologyLab  
 📍 **Italy — IRCCS Humanitas Research Hospital, Pathology Service**  
 
@@ -86,7 +86,7 @@ Where human or patient-derived data are involved, raw data should remain under t
 ## 📚 Learning & resources
 
 The lab also maintains [**resources**](https://github.com/ComputationalPathologyLab/resources) covering foundational skills in **Python, GitHub, Linux shell, and high-performance computing**.
-
+<!--- 
 For the broader research context and software catalogue, visit the [**lab website**](https://computationalpathologylab.github.io/).
 
 Useful entry points:
@@ -97,7 +97,7 @@ Useful entry points:
 - [Vessel spatial analysis](https://computationalpathologylab.github.io/vessel-spatial-analysis.html)
 - [QuPath vessel segmentation](https://computationalpathologylab.github.io/qupath-vessel-segmentation.html)
 - [Open-source software](https://computationalpathologylab.github.io/software.html)
-
+--->
 ---
 
 ## 🤝 Collaboration
@@ -125,14 +125,14 @@ The lab’s public research identity emphasizes **reproducible computational pat
 
 ## 🔗 Links
 
-- 🌐 [Lab website](https://computationalpathologylab.github.io/)
+<!--- - 🌐 [Lab website](https://computationalpathologylab.github.io/)--->
 - 🐙 [GitHub organization](https://github.com/ComputationalPathologyLab)
-- 🧑‍🔬 [Lab members](https://computationalpathologylab.github.io/members.html)
+<!--- - 🧑‍🔬 [Lab members](https://computationalpathologylab.github.io/members.html)
 - 🔬 [Projects](https://computationalpathologylab.github.io/projects.html)
 - 💻 [Software](https://computationalpathologylab.github.io/software.html)
 - 📄 [Publications](https://computationalpathologylab.github.io/publications.html)
 - 📚 [Resources](https://computationalpathologylab.github.io/resources.html)
-- ✉️ [Contact](https://computationalpathologylab.github.io/contact.html)
+- ✉️ [Contact](https://computationalpathologylab.github.io/contact.html)--->
 ---
 
 ## 📜 Repository & software licensing
