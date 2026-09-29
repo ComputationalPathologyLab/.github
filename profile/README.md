@@ -8,6 +8,7 @@ Our current public-facing research focus includes **vascular spatial analysis, d
 
 <!--- 🌐 **Website:** https://computationalpathologylab.github.io/  --->
 🐙 **GitHub:** https://github.com/ComputationalPathologyLab  
+▶️ **Official YouTube channel:** https://www.youtube.com/@ComputationalPathologyLab  
 📍 **Italy — IRCCS Humanitas Research Hospital, Pathology Service**  
 
 ---
@@ -127,6 +128,7 @@ The lab’s public research identity emphasizes **reproducible computational pat
 
 <!--- - 🌐 [Lab website](https://computationalpathologylab.github.io/)--->
 - 🐙 [GitHub organization](https://github.com/ComputationalPathologyLab)
+- ▶️ [Official YouTube channel](https://www.youtube.com/@ComputationalPathologyLab)
 <!--- - 🧑‍🔬 [Lab members](https://computationalpathologylab.github.io/members.html)
 - 🔬 [Projects](https://computationalpathologylab.github.io/projects.html)
 - 💻 [Software](https://computationalpathologylab.github.io/software.html)
